@@ -20,3 +20,4 @@ AZ-104 (Azure Administrator) and the Certified DevSecOps Professional (CDP).
 ## Find me
 
 - Live resume: https://adamdye.dev/
+- Writing: [What a security leader learned building the Cloud Resume Challenge on Azure](https://adamdye.substack.com/p/what-a-security-leader-learned-building)
