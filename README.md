@@ -19,4 +19,4 @@ AZ-104 (Azure Administrator) and the Certified DevSecOps Professional (CDP).
 
 ## Find me
 
-- Live resume: https://stcrcfront99661.z13.web.core.windows.net/
+- Live resume: https://adamdye.dev/
